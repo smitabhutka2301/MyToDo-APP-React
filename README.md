@@ -21,3 +21,16 @@ Future Improvements:
 Adding due dates and reminders
 Implementing a backend for persistent storage
 Enhancing the UI with animations and more themes
+
+
+#-----Add Items ------
+<img width="1284" alt="image" src="https://github.com/user-attachments/assets/cd069200-d98b-4e59-9112-5f97b63667a9">
+
+
+#---- Show Completed Items and sort them ----
+<img width="1284" alt="image" src="https://github.com/user-attachments/assets/47f0a10b-f8b0-41cb-9e6b-798b715a0ddd">
+
+#---- Remove items and also update the footer count according to activities in List
+<img width="1284" alt="image" src="https://github.com/user-attachments/assets/6dba6343-63be-4fdb-9e4c-cfff34c6af3e">
+
+
